@@ -74,16 +74,16 @@ COL7070
 peut permettre de retrouver immédiatement les variantes présentes dans les catalogues :
 
 ```text
-COL7070-T0E
-COL7070-T1E
-COL7070-T2E
+COL7070-TX
+COL7070-TX0E
+COL7070-T2EX
 ...
 ```
 
 Une recherche exacte comme :
 
 ```text
-COL7070-T2E
+COL7070-TXXX
 ```
 
 doit placer cette référence en priorité.
@@ -106,10 +106,10 @@ Interprétation :
 
 | Champ | Valeur |
 |---|---|
-| Désignation | Chaise coque Cendrine |
+| Désignation | Chaise  |
 | Dimensions | 356 x 315 x 445 |
-| Finition | HNV MAD104 |
-| Référence | COL2684-T0E |
+| Finition | HNV MAR |
+| Référence | COL26114-XXX |
 | Prix HT | 83,35 € |
 | Éco./Autre | 0,21 € |
 
